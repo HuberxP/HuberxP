@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! Soy Huber Hernández 👋
 
-<!--
-**HuberxP/HuberxP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+- 🔭 Actualmente estoy terminando mis estudios universitarios.
+- 🌱 Aprendiendo Arquitectura AWS, Frontend y un poco de configuracion de redes .
+- 👯 Buscando colaborar en [proyecto o tipo de proyectos].
+- 🤔 Buscando ayuda con Frameworks para frontend.
+- 📫 Cómo contactarme por e-mail: hernandezhuber48@gmail.com.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mis Proyectos
+Actualmente estoy terminando uno relacionado con API en una pagina Web
+
+## Conéctate conmigo
+- [LinkedIn] https://www.linkedin.com/in/huberxp/
+- [X] https://x.com/HuberxPs6
