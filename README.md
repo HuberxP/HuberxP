@@ -12,5 +12,5 @@
 Actualmente estoy terminando uno relacionado con API en una pagina Web
 
 ## Conéctate conmigo
-- [LinkedIn] https://www.linkedin.com/in/huberxp/
-- [X] https://x.com/HuberxPs6
+- LinkedIn: https://www.linkedin.com/in/huberxp/
+- X: https://x.com/HuberxPs6
