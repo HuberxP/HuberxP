@@ -3,9 +3,8 @@
 ## Sobre mí
 - 🔭 Actualmente estoy terminando mis estudios universitarios.
 - 🌱 Aprendiendo Arquitectura AWS, Frontend y un poco de configuracion de redes .
-- 👯 Buscando colaborar en [proyecto o tipo de proyectos].
 - 🤔 Buscando ayuda con Frameworks para frontend.
-- 📫 Cómo contactarme por e-mail: hernandezhuber48@gmail.com.
+- 📫 Cómo contactarme por e-mail: hernandezhuber48@gmail.com
 
 
 ## Mis Proyectos
